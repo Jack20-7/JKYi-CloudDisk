@@ -1,0 +1,6 @@
+[2023-02-23 09:33:29]--[/home/admin/JKYi-CloudDisk/src_cgi/reg_cgi.c:200]--buf = {"userName":"xiaoyang","nickName":"duck","firstPwd":"123","phone"="1234","email":"555"}
+[2023-02-23 09:33:29]--[/home/admin/JKYi-CloudDisk/src_cgi/reg_cgi.c:109]--mysql_user = root,mysql_pwd = root,mysql_db = JKYi-CloudDisk
+[2023-02-23 09:33:29]--[/home/admin/JKYi-CloudDisk/src_cgi/reg_cgi.c:33]--cJSON_Parse err
+[2023-02-23 09:34:47]--[/home/admin/JKYi-CloudDisk/src_cgi/reg_cgi.c:200]--buf = {"userName":"xiaoyang","nickName":"duck","firstPwd":"123","phone":"1234","email":"555"}
+[2023-02-23 09:34:47]--[/home/admin/JKYi-CloudDisk/src_cgi/reg_cgi.c:109]--mysql_user = root,mysql_pwd = root,mysql_db = JKYi-CloudDisk
+[2023-02-23 09:34:47]--[/home/admin/JKYi-CloudDisk/src_cgi/reg_cgi.c:121]--user_name = xiaoyang,nick_name = duck,pwd = 123,tel = 1234,email = 555

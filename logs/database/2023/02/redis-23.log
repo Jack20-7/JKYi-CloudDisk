@@ -1,0 +1,40 @@
+[2023-02-23 09:36:48]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:363]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2023-02-23 09:36:48]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:519]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2023-02-23 11:07:41]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:363]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2023-02-23 11:07:41]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:519]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2023-02-23 11:13:32]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:363]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2023-02-23 11:13:32]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:519]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2023-02-23 11:15:06]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:363]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2023-02-23 11:15:06]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:519]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2023-02-23 11:16:56]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:363]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2023-02-23 11:16:56]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:519]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2023-02-23 15:45:13]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:363]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2023-02-23 15:45:13]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:519]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2023-02-23 15:45:41]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:363]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2023-02-23 15:45:41]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:519]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2023-02-23 15:47:24]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:363]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2023-02-23 15:47:24]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:519]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2023-02-23 15:48:02]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:363]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2023-02-23 15:48:02]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:519]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2023-02-23 16:26:33]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:357]--[-][GMS_REDIS]Connect 127.0.0.1:6379 Error:Connection refused
+[2023-02-23 16:26:44]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:357]--[-][GMS_REDIS]Connect 127.0.0.1:6379 Error:Connection refused
+[2023-02-23 16:27:48]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:363]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2023-02-23 16:27:48]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:519]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2023-02-23 16:31:04]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:363]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2023-02-23 16:31:04]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:519]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2023-02-23 16:32:16]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:363]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2023-02-23 16:32:16]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:519]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2023-02-23 16:38:10]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:363]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2023-02-23 16:38:10]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:519]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2023-02-23 16:47:01]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:363]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2023-02-23 16:47:01]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:519]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2023-02-23 16:47:40]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:363]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2023-02-23 16:47:40]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:519]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2023-02-23 16:48:07]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:363]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2023-02-23 16:48:07]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:519]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2023-02-23 16:48:24]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:363]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2023-02-23 16:48:24]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:519]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2023-02-23 16:48:39]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:363]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2023-02-23 16:48:39]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:519]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2023-02-23 16:50:23]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:363]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2023-02-23 16:50:23]--[/home/admin/JKYi-CloudDisk/common/redis_op.c:519]--[+][GMS_REDIS]Disconnect SUCCESS!

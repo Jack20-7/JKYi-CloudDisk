@@ -1,0 +1,35 @@
+[2023-02-21 21:42:53]--[/home/admin/JKYi-CloudDisk/src_cgi/reg_cgi.c:200]--buf = {
+   "userName":"123"
+}
+[2023-02-21 21:42:53]--[/home/admin/JKYi-CloudDisk/src_cgi/reg_cgi.c:109]--mysql_user = root,mysql_pwd = root,mysql_db = CloudDisk[2023-02-21 21:42:53]--[/home/admin/JKYi-CloudDisk/src_cgi/reg_cgi.c:48]--nickName[2023-02-21 23:04:28]--[/home/admin/JKYi-CloudDisk/src_cgi/reg_cgi.c:200]--buf = {
+   "userName":"123"
+}
+[2023-02-21 23:04:28]--[/home/admin/JKYi-CloudDisk/src_cgi/reg_cgi.c:109]--mysql_user = root,mysql_pwd = root,mysql_db = CloudDisk
+[2023-02-21 23:04:28]--[/home/admin/JKYi-CloudDisk/src_cgi/reg_cgi.c:48]--nickName
+[2023-02-21 23:07:24]--[/home/admin/JKYi-CloudDisk/src_cgi/reg_cgi.c:200]--buf = {
+   "userName":"123",
+   “nickName":"123",
+    "firstPwd":"123",
+    "phone":"12999",
+    "email":"123"
+}
+[2023-02-21 23:07:24]--[/home/admin/JKYi-CloudDisk/src_cgi/reg_cgi.c:109]--mysql_user = root,mysql_pwd = root,mysql_db = CloudDisk
+[2023-02-21 23:07:24]--[/home/admin/JKYi-CloudDisk/src_cgi/reg_cgi.c:33]--cJSON_Parse err
+[2023-02-21 23:07:40]--[/home/admin/JKYi-CloudDisk/src_cgi/reg_cgi.c:200]--buf = {
+   "userName":"123",
+   “nickName":"123",
+    "firstPwd":"123",
+    "phone":"12999",
+    "email":"123"
+}
+[2023-02-21 23:07:40]--[/home/admin/JKYi-CloudDisk/src_cgi/reg_cgi.c:109]--mysql_user = root,mysql_pwd = root,mysql_db = CloudDisk
+[2023-02-21 23:07:40]--[/home/admin/JKYi-CloudDisk/src_cgi/reg_cgi.c:33]--cJSON_Parse err
+[2023-02-21 23:07:41]--[/home/admin/JKYi-CloudDisk/src_cgi/reg_cgi.c:200]--buf = {
+   "userName":"123",
+   “nickName":"123",
+    "firstPwd":"123",
+    "phone":"12999",
+    "email":"123"
+}
+[2023-02-21 23:07:41]--[/home/admin/JKYi-CloudDisk/src_cgi/reg_cgi.c:109]--mysql_user = root,mysql_pwd = root,mysql_db = CloudDisk
+[2023-02-21 23:07:41]--[/home/admin/JKYi-CloudDisk/src_cgi/reg_cgi.c:33]--cJSON_Parse err

@@ -1,0 +1,7 @@
+[2023-02-22 09:33:22]--[/home/admin/JKYi-CloudDisk/src_cgi/reg_cgi.c:200]--buf = {"userName":"xiaohong","nickName":"xxx","firstPwd":"123","phone":"188","email":"555"}
+[2023-02-22 09:33:22]--[/home/admin/JKYi-CloudDisk/src_cgi/reg_cgi.c:109]--mysql_user = root,mysql_pwd = root,mysql_db = CloudDisk
+[2023-02-22 09:33:22]--[/home/admin/JKYi-CloudDisk/src_cgi/reg_cgi.c:121]--user_name = xiaohong,nick_name = xxx,pwd = 123,tel = 188,email = 555
+[2023-02-22 09:33:22]--[/home/admin/JKYi-CloudDisk/src_cgi/reg_cgi.c:125]--reg connect mysql err
+[2023-02-22 09:37:08]--[/home/admin/JKYi-CloudDisk/src_cgi/reg_cgi.c:200]--buf = {"userName":"xiaohong","nickName":"xxx","firstPwd":"123","phone":"188","email":"555"}
+[2023-02-22 09:37:08]--[/home/admin/JKYi-CloudDisk/src_cgi/reg_cgi.c:109]--mysql_user = root,mysql_pwd = root,mysql_db = JKYi-CloudDisk
+[2023-02-22 09:37:08]--[/home/admin/JKYi-CloudDisk/src_cgi/reg_cgi.c:121]--user_name = xiaohong,nick_name = xxx,pwd = 123,tel = 188,email = 555

@@ -1,0 +1,187 @@
+[2023-02-25 19:52:07]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:38]--mysql:[user=root,pwd=root,database=JKYi-CloudDisk][2023-02-25 19:52:07]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:43]--redis:[ip=127.0.0.1,port=6379]
+[2023-02-25 20:01:27]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:521]--cmd = 
+[2023-02-25 20:01:27]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:543]--buf = {
+    "user":"xiaoyang",
+    "token":"1b22f672ac2c969d3562eddd6edac39a",
+    "md5":"df483402b9bfeb234717a32c6e86280e",
+    "filename":"c.txt"
+}
+[2023-02-25 20:01:27]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:545]--user = xiaoyang,token = 1b22f672ac2c969d3562eddd6edac39a,md5 = df483402b9bfeb234717a32c6e86280e,filename = c.txt
+[2023-02-25 20:02:11]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:521]--cmd = share
+[2023-02-25 20:02:11]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:543]--buf = {
+    "user":"xiaoyang",
+    "token":"1b22f672ac2c969d3562eddd6edac39a",
+    "md5":"df483402b9bfeb234717a32c6e86280e",
+    "filename":"c.txt"
+}
+[2023-02-25 20:02:11]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:545]--user = xiaoyang,token = 1b22f672ac2c969d3562eddd6edac39a,md5 = df483402b9bfeb234717a32c6e86280e,filename = c.txt
+[2023-02-25 20:05:18]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:521]--cmd = share
+[2023-02-25 20:05:18]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:543]--buf = {
+    "user":"xiaoyang",
+    "token":"1b22f672ac2c969d3562eddd6edac39a",
+    "md5":"df483402b9bfeb234717a32c6e86280e",
+    "filename":"c.txt"
+}
+[2023-02-25 20:05:18]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:545]--user = xiaoyang,token = 1b22f672ac2c969d3562eddd6edac39a,md5 = df483402b9bfeb234717a32c6e86280e,filename = c.txt
+[2023-02-25 20:05:18]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:160]--zset exists fileid:df483402b9bfeb234717a32c6e86280ec.txt
+[2023-02-25 20:14:37]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:521]--cmd = share
+[2023-02-25 20:14:37]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:543]--buf = {
+    "user":"xiaoyang",
+    "token":"1b22f672ac2c969d3562eddd6edac39a",
+    "md5":"df483402b9bfeb234717a32c6e86280e",
+    "filename":"c.txt"
+}
+[2023-02-25 20:14:37]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:545]--user = xiaoyang,token = 1b22f672ac2c969d3562eddd6edac39a,md5 = df483402b9bfeb234717a32c6e86280e,filename = c.txt
+[2023-02-25 20:14:37]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:160]--zset exists fileid:df483402b9bfeb234717a32c6e86280ec.txt
+[2023-02-25 20:17:49]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:38]--mysql:[user=root,pwd=root,database=JKYi-CloudDisk][2023-02-25 20:17:49]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:43]--redis:[ip=127.0.0.1,port=6379]
+[2023-02-25 20:18:00]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:522]--cmd = share
+[2023-02-25 20:18:00]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:545]--buf = {
+    "user":"xiaoyang",
+    "token":"1b22f672ac2c969d3562eddd6edac39a",
+    "md5":"df483402b9bfeb234717a32c6e86280e",
+    "filename":"c.txt"
+}
+[2023-02-25 20:18:00]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:547]--user = xiaoyang,token = 1b22f672ac2c969d3562eddd6edac39a,md5 = df483402b9bfeb234717a32c6e86280e,filename = c.txt
+[2023-02-25 20:19:37]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:38]--mysql:[user=root,pwd=root,database=JKYi-CloudDisk][2023-02-25 20:19:37]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:43]--redis:[ip=127.0.0.1,port=6379]
+[2023-02-25 20:19:44]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:521]--cmd = share
+[2023-02-25 20:19:44]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:544]--buf = {
+    "user":"xiaoyang",
+    "token":"1b22f672ac2c969d3562eddd6edac39a",
+    "md5":"df483402b9bfeb234717a32c6e86280e",
+    "filename":"c.txt"
+}
+[2023-02-25 20:19:44]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:546]--user = xiaoyang,token = 1b22f672ac2c969d3562eddd6edac39a,md5 = df483402b9bfeb234717a32c6e86280e,filename = c.txt
+[2023-02-25 20:19:47]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:521]--cmd = share
+[2023-02-25 20:19:47]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:544]--buf = {
+    "user":"xiaoyang",
+    "token":"1b22f672ac2c969d3562eddd6edac39a",
+    "md5":"df483402b9bfeb234717a32c6e86280e",
+    "filename":"c.txt"
+}
+[2023-02-25 20:19:47]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:546]--user = xiaoyang,token = 1b22f672ac2c969d3562eddd6edac39a,md5 = df483402b9bfeb234717a32c6e86280e,filename = c.txt
+[2023-02-25 20:21:58]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:521]--cmd = share
+[2023-02-25 20:21:58]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:544]--buf = {
+    "user":"xiaoyang",
+    "token":"5f40ee97481818bea9b2e39963759b85",
+    "md5":"df483402b9bfeb234717a32c6e86280e",
+    "filename":"c.txt"
+}
+[2023-02-25 20:21:58]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:546]--user = xiaoyang,token = 5f40ee97481818bea9b2e39963759b85,md5 = df483402b9bfeb234717a32c6e86280e,filename = c.txt
+[2023-02-25 20:21:58]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:170]--file:c.txt has shared
+[2023-02-25 20:23:03]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:521]--cmd = share
+[2023-02-25 20:23:03]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:544]--buf = {
+    "user":"xiaoyang",
+    "token":"5f40ee97481818bea9b2e39963759b85",
+    "md5":"df483402b9bfeb234717a32c6e86280e",
+    "filename":"c.txt"
+}
+[2023-02-25 20:23:03]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:546]--user = xiaoyang,token = 5f40ee97481818bea9b2e39963759b85,md5 = df483402b9bfeb234717a32c6e86280e,filename = c.txt
+[2023-02-25 20:23:03]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:160]--zset exists fileid:df483402b9bfeb234717a32c6e86280ec.txt
+[2023-02-25 20:23:58]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:521]--cmd = pv
+[2023-02-25 20:23:58]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:544]--buf = {
+    "user":"xiaoyang",
+    "token":"5f40ee97481818bea9b2e39963759b85",
+    "md5":"df483402b9bfeb234717a32c6e86280e",
+    "filename":"c.txt"
+}
+[2023-02-25 20:23:58]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:546]--user = xiaoyang,token = 5f40ee97481818bea9b2e39963759b85,md5 = df483402b9bfeb234717a32c6e86280e,filename = c.txt
+[2023-02-25 20:23:58]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:485]--update user_file_list set pv = 1 where user = 'xiaoyang' and md5 = 'df483402b9bfeb234717a32c6e86280e' and file_name = 'c.txt err
+[2023-02-25 20:29:23]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:38]--mysql:[user=root,pwd=root,database=JKYi-CloudDisk][2023-02-25 20:29:23]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:43]--redis:[ip=127.0.0.1,port=6379]
+[2023-02-25 20:30:24]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:521]--cmd = pv
+[2023-02-25 20:30:24]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:544]--buf = {
+    "user":"xiaoyang",
+    "token":"86104aa6bbcdaac4124e6c05680e5f81",
+    "md5":"df483402b9bfeb234717a32c6e86280e",
+    "filename":"c.txt"
+}
+[2023-02-25 20:30:24]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:546]--user = xiaoyang,token = 86104aa6bbcdaac4124e6c05680e5f81,md5 = df483402b9bfeb234717a32c6e86280e,filename = c.txt
+[2023-02-25 20:32:08]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:521]--cmd = share
+[2023-02-25 20:32:08]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:544]--buf = {
+    "user":"xiaoyang",
+    "token":"86104aa6bbcdaac4124e6c05680e5f81",
+    "md5":"df483402b9bfeb234717a32c6e86280e",
+    "filename":"c.txt"
+}
+[2023-02-25 20:32:08]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:546]--user = xiaoyang,token = 86104aa6bbcdaac4124e6c05680e5f81,md5 = df483402b9bfeb234717a32c6e86280e,filename = c.txt
+[2023-02-25 20:32:08]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:170]--file:c.txt has shared
+[2023-02-25 20:32:12]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:521]--cmd = share
+[2023-02-25 20:32:12]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:544]--buf = {
+    "user":"xiaoyang",
+    "token":"86104aa6bbcdaac4124e6c05680e5f81",
+    "md5":"df483402b9bfeb234717a32c6e86280e",
+    "filename":"c.txt"
+}
+[2023-02-25 20:32:12]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:546]--user = xiaoyang,token = 86104aa6bbcdaac4124e6c05680e5f81,md5 = df483402b9bfeb234717a32c6e86280e,filename = c.txt
+[2023-02-25 20:32:12]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:160]--zset exists fileid:df483402b9bfeb234717a32c6e86280ec.txt
+[2023-02-25 20:35:04]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:521]--cmd = share
+[2023-02-25 20:35:04]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:544]--buf = {
+    "user":"xiaoyang",
+    "token":"86104aa6bbcdaac4124e6c05680e5f81",
+    "md5":"df483402b9bfeb234717a32c6e86280e",
+    "filename":"c.txt"
+}
+[2023-02-25 20:35:04]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:546]--user = xiaoyang,token = 86104aa6bbcdaac4124e6c05680e5f81,md5 = df483402b9bfeb234717a32c6e86280e,filename = c.txt
+[2023-02-25 20:35:04]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:160]--zset exists fileid:df483402b9bfeb234717a32c6e86280ec.txt
+[2023-02-25 20:35:16]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:521]--cmd = del
+[2023-02-25 20:35:16]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:544]--buf = {
+    "user":"xiaoyang",
+    "token":"86104aa6bbcdaac4124e6c05680e5f81",
+    "md5":"df483402b9bfeb234717a32c6e86280e",
+    "filename":"c.txt"
+}
+[2023-02-25 20:35:16]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:546]--user = xiaoyang,token = 86104aa6bbcdaac4124e6c05680e5f81,md5 = df483402b9bfeb234717a32c6e86280e,filename = c.txt
+[2023-02-25 20:35:16]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:389]--delete from user_file_list where user = 'xiaoyang' and md5 = 'df483402b9bfeb234717a32c6e86280e' and filen_name = 'c.txt' err
+[2023-02-25 20:40:50]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:521]--cmd = del
+[2023-02-25 20:40:50]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:544]--buf = {
+    "user":"xiaoyang",
+    "token":"86104aa6bbcdaac4124e6c05680e5f81",
+    "md5":"df483402b9bfeb234717a32c6e86280e",
+    "filename":"c.txt"
+}
+[2023-02-25 20:40:50]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:546]--user = xiaoyang,token = 86104aa6bbcdaac4124e6c05680e5f81,md5 = df483402b9bfeb234717a32c6e86280e,filename = c.txt
+[2023-02-25 20:40:50]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:389]--delete from user_file_list where user = 'xiaoyang' and md5 = 'df483402b9bfeb234717a32c6e86280e' and filen_name = 'c.txt' err
+[2023-02-25 20:41:36]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:38]--mysql:[user=root,pwd=root,database=JKYi-CloudDisk][2023-02-25 20:41:36]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:43]--redis:[ip=127.0.0.1,port=6379]
+[2023-02-25 20:47:03]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:521]--cmd = del
+[2023-02-25 20:47:03]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:544]--buf = {
+    "user":"xiaoyang",
+    "token":"b54c016a739b4d03de676c168f0b7642",
+    "md5":"b10e7723bb36049cb591945815a115e1",
+    "filename":"b.txt"
+}
+[2023-02-25 20:47:03]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:546]--user = xiaoyang,token = b54c016a739b4d03de676c168f0b7642,md5 = b10e7723bb36049cb591945815a115e1,filename = b.txt
+[2023-02-25 20:47:03]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:279]--remove_file_from_storage ret = 0
+[2023-02-25 20:47:03]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:521]--cmd = del
+[2023-02-25 20:47:03]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:544]--buf = {
+    "user":"xiaoyang",
+    "token":"b54c016a739b4d03de676c168f0b7642",
+    "md5":"b10e7723bb36049cb591945815a115e1",
+    "filename":"b.txt"
+}
+[2023-02-25 20:47:03]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:546]--user = xiaoyang,token = b54c016a739b4d03de676c168f0b7642,md5 = b10e7723bb36049cb591945815a115e1,filename = b.txt
+[2023-02-25 20:47:03]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:399]--select count from file_info where md5 = 'b10e7723bb36049cb591945815a115e1' err
+[2023-02-25 20:49:41]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:521]--cmd = del
+[2023-02-25 20:49:41]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:544]--buf = {
+    "user":"xiaoyang",
+    "token":"b54c016a739b4d03de676c168f0b7642",
+    "md5":"e2fc714c4727ee9395f324cd2e7f331f",
+    "filename":"b.txt"
+}
+[2023-02-25 20:49:41]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:546]--user = xiaoyang,token = b54c016a739b4d03de676c168f0b7642,md5 = e2fc714c4727ee9395f324cd2e7f331f,filename = b.txt
+[2023-02-25 20:50:44]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:521]--cmd = del
+[2023-02-25 20:50:44]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:544]--buf = {
+    "user":"xiaoyang",
+    "token":"b54c016a739b4d03de676c168f0b7642",
+    "md5":"e2fc714c4727ee9395f324cd2e7f331f",
+    "filename":"a.txt"
+}
+[2023-02-25 20:50:44]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:546]--user = xiaoyang,token = b54c016a739b4d03de676c168f0b7642,md5 = e2fc714c4727ee9395f324cd2e7f331f,filename = a.txt
+[2023-02-25 20:50:44]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:371]--select count from user_file_count where user = 'xiaoyang' err
+[2023-02-25 20:50:55]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:521]--cmd = del
+[2023-02-25 20:50:55]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:544]--buf = {
+    "user":"xiaoyang",
+    "token":"b54c016a739b4d03de676c168f0b7642",
+    "md5":"e2fc714c4727ee9395f324cd2e7f331f",
+    "filename":"a.txt"
+}
+[2023-02-25 20:50:55]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:546]--user = xiaoyang,token = b54c016a739b4d03de676c168f0b7642,md5 = e2fc714c4727ee9395f324cd2e7f331f,filename = a.txt
+[2023-02-25 20:50:55]--[/home/admin/JKYi-CloudDisk/src_cgi/dealfile_cgi.c:371]--select count from user_file_count where user = 'xiaoyang' err

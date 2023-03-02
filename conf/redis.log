@@ -1,0 +1,744 @@
+16388:C 20 Feb 2023 11:34:06.552 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+16388:C 20 Feb 2023 11:34:06.552 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=16388, just started
+16388:C 20 Feb 2023 11:34:06.552 # Configuration loaded
+16388:M 20 Feb 2023 11:34:06.553 * monotonic clock: POSIX clock_gettime
+16388:M 20 Feb 2023 11:34:06.553 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+16388:M 20 Feb 2023 11:34:06.553 * Running mode=standalone, port=6379.
+16388:M 20 Feb 2023 11:34:06.553 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+16388:M 20 Feb 2023 11:34:06.553 # Server initialized
+16388:M 20 Feb 2023 11:34:06.553 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+16388:M 20 Feb 2023 11:34:06.554 * Ready to accept connections
+16388:signal-handler (1676864153) Received SIGINT scheduling shutdown...
+16388:M 20 Feb 2023 11:35:53.150 # User requested shutdown...
+16388:M 20 Feb 2023 11:35:53.151 * Saving the final RDB snapshot before exiting.
+16388:M 20 Feb 2023 11:35:53.153 * DB saved on disk
+16388:M 20 Feb 2023 11:35:53.153 * Removing the pid file.
+16388:M 20 Feb 2023 11:35:53.153 # Redis is now ready to exit, bye bye...
+17999:C 20 Feb 2023 11:40:07.699 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+17999:C 20 Feb 2023 11:40:07.699 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=17999, just started
+17999:C 20 Feb 2023 11:40:07.699 # Configuration loaded
+17999:M 20 Feb 2023 11:40:07.699 * monotonic clock: POSIX clock_gettime
+17999:M 20 Feb 2023 11:40:07.700 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+17999:M 20 Feb 2023 11:40:07.700 * Running mode=standalone, port=6379.
+17999:M 20 Feb 2023 11:40:07.700 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+17999:M 20 Feb 2023 11:40:07.700 # Server initialized
+17999:M 20 Feb 2023 11:40:07.700 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+17999:M 20 Feb 2023 11:40:07.700 * Loading RDB produced by version 7.0.4
+17999:M 20 Feb 2023 11:40:07.700 * RDB age 254 seconds
+17999:M 20 Feb 2023 11:40:07.700 * RDB memory usage when created 0.82 Mb
+17999:M 20 Feb 2023 11:40:07.700 * Done loading RDB, keys loaded: 0, keys expired: 0.
+17999:M 20 Feb 2023 11:40:07.700 * DB loaded from disk: 0.000 seconds
+17999:M 20 Feb 2023 11:40:07.700 * Ready to accept connections
+17999:signal-handler (1676864413) Received SIGINT scheduling shutdown...
+17999:M 20 Feb 2023 11:40:13.118 # User requested shutdown...
+17999:M 20 Feb 2023 11:40:13.118 * Saving the final RDB snapshot before exiting.
+17999:M 20 Feb 2023 11:40:13.121 * DB saved on disk
+17999:M 20 Feb 2023 11:40:13.121 * Removing the pid file.
+17999:M 20 Feb 2023 11:40:13.121 # Redis is now ready to exit, bye bye...
+19600:C 20 Feb 2023 11:45:39.793 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+19600:C 20 Feb 2023 11:45:39.793 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=19600, just started
+19600:C 20 Feb 2023 11:45:39.793 # Configuration loaded
+19600:M 20 Feb 2023 11:45:39.794 * monotonic clock: POSIX clock_gettime
+19600:M 20 Feb 2023 11:45:39.794 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+19600:M 20 Feb 2023 11:45:39.794 * Running mode=standalone, port=6379.
+19600:M 20 Feb 2023 11:45:39.794 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+19600:M 20 Feb 2023 11:45:39.794 # Server initialized
+19600:M 20 Feb 2023 11:45:39.794 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+19600:M 20 Feb 2023 11:45:39.794 * Loading RDB produced by version 7.0.4
+19600:M 20 Feb 2023 11:45:39.794 * RDB age 326 seconds
+19600:M 20 Feb 2023 11:45:39.794 * RDB memory usage when created 0.82 Mb
+19600:M 20 Feb 2023 11:45:39.794 * Done loading RDB, keys loaded: 0, keys expired: 0.
+19600:M 20 Feb 2023 11:45:39.795 * DB loaded from disk: 0.000 seconds
+19600:M 20 Feb 2023 11:45:39.795 * Ready to accept connections
+7121:C 20 Feb 2023 13:23:52.712 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+7121:C 20 Feb 2023 13:23:52.712 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=7121, just started
+7121:C 20 Feb 2023 13:23:52.712 # Configuration loaded
+7121:M 20 Feb 2023 13:23:52.712 * monotonic clock: POSIX clock_gettime
+7121:M 20 Feb 2023 13:23:52.712 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+7121:M 20 Feb 2023 13:23:52.713 * Running mode=standalone, port=6379.
+7121:M 20 Feb 2023 13:23:52.713 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+7121:M 20 Feb 2023 13:23:52.713 # Server initialized
+7121:M 20 Feb 2023 13:23:52.713 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+7121:M 20 Feb 2023 13:23:52.713 * Loading RDB produced by version 7.0.4
+7121:M 20 Feb 2023 13:23:52.713 * RDB age 6219 seconds
+7121:M 20 Feb 2023 13:23:52.713 * RDB memory usage when created 0.82 Mb
+7121:M 20 Feb 2023 13:23:52.713 * Done loading RDB, keys loaded: 0, keys expired: 0.
+7121:M 20 Feb 2023 13:23:52.713 * DB loaded from disk: 0.000 seconds
+7121:M 20 Feb 2023 13:23:52.713 * Ready to accept connections
+9632:C 20 Feb 2023 13:32:57.539 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+9632:C 20 Feb 2023 13:32:57.539 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=9632, just started
+9632:C 20 Feb 2023 13:32:57.539 # Configuration loaded
+9632:M 20 Feb 2023 13:32:57.540 * monotonic clock: POSIX clock_gettime
+9632:M 20 Feb 2023 13:32:57.540 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+9632:M 20 Feb 2023 13:32:57.540 * Running mode=standalone, port=6379.
+9632:M 20 Feb 2023 13:32:57.540 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+9632:M 20 Feb 2023 13:32:57.540 # Server initialized
+9632:M 20 Feb 2023 13:32:57.540 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+9632:M 20 Feb 2023 13:32:57.541 * Loading RDB produced by version 7.0.4
+9632:M 20 Feb 2023 13:32:57.541 * RDB age 6764 seconds
+9632:M 20 Feb 2023 13:32:57.541 * RDB memory usage when created 0.82 Mb
+9632:M 20 Feb 2023 13:32:57.541 * Done loading RDB, keys loaded: 0, keys expired: 0.
+9632:M 20 Feb 2023 13:32:57.541 * DB loaded from disk: 0.000 seconds
+9632:M 20 Feb 2023 13:32:57.541 * Ready to accept connections
+10387:C 20 Feb 2023 13:35:07.407 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+10387:C 20 Feb 2023 13:35:07.407 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=10387, just started
+10387:C 20 Feb 2023 13:35:07.407 # Configuration loaded
+10387:M 20 Feb 2023 13:35:07.408 * monotonic clock: POSIX clock_gettime
+10387:M 20 Feb 2023 13:35:07.408 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+10387:M 20 Feb 2023 13:35:07.408 * Running mode=standalone, port=6379.
+10387:M 20 Feb 2023 13:35:07.408 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+10387:M 20 Feb 2023 13:35:07.408 # Server initialized
+10387:M 20 Feb 2023 13:35:07.408 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+10387:M 20 Feb 2023 13:35:07.409 * Loading RDB produced by version 7.0.4
+10387:M 20 Feb 2023 13:35:07.409 * RDB age 6894 seconds
+10387:M 20 Feb 2023 13:35:07.409 * RDB memory usage when created 0.82 Mb
+10387:M 20 Feb 2023 13:35:07.409 * Done loading RDB, keys loaded: 0, keys expired: 0.
+10387:M 20 Feb 2023 13:35:07.409 * DB loaded from disk: 0.000 seconds
+10387:M 20 Feb 2023 13:35:07.409 * Ready to accept connections
+12666:C 20 Feb 2023 13:43:25.139 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+12666:C 20 Feb 2023 13:43:25.139 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=12666, just started
+12666:C 20 Feb 2023 13:43:25.139 # Configuration loaded
+12666:M 20 Feb 2023 13:43:25.140 * monotonic clock: POSIX clock_gettime
+12666:M 20 Feb 2023 13:43:25.140 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+12666:M 20 Feb 2023 13:43:25.141 * Running mode=standalone, port=6379.
+12666:M 20 Feb 2023 13:43:25.141 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+12666:M 20 Feb 2023 13:43:25.141 # Server initialized
+12666:M 20 Feb 2023 13:43:25.141 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+12666:M 20 Feb 2023 13:43:25.141 * Loading RDB produced by version 7.0.4
+12666:M 20 Feb 2023 13:43:25.141 * RDB age 7392 seconds
+12666:M 20 Feb 2023 13:43:25.141 * RDB memory usage when created 0.82 Mb
+12666:M 20 Feb 2023 13:43:25.141 * Done loading RDB, keys loaded: 0, keys expired: 0.
+12666:M 20 Feb 2023 13:43:25.141 * DB loaded from disk: 0.000 seconds
+12666:M 20 Feb 2023 13:43:25.141 * Ready to accept connections
+13365:C 20 Feb 2023 13:45:09.823 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+13365:C 20 Feb 2023 13:45:09.823 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=13365, just started
+13365:C 20 Feb 2023 13:45:09.823 # Configuration loaded
+13365:M 20 Feb 2023 13:45:09.824 * monotonic clock: POSIX clock_gettime
+13365:M 20 Feb 2023 13:45:09.824 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+13365:M 20 Feb 2023 13:45:09.824 * Running mode=standalone, port=6379.
+13365:M 20 Feb 2023 13:45:09.824 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+13365:M 20 Feb 2023 13:45:09.824 # Server initialized
+13365:M 20 Feb 2023 13:45:09.824 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+13365:M 20 Feb 2023 13:45:09.824 * Loading RDB produced by version 7.0.4
+13365:M 20 Feb 2023 13:45:09.825 * RDB age 7496 seconds
+13365:M 20 Feb 2023 13:45:09.825 * RDB memory usage when created 0.82 Mb
+13365:M 20 Feb 2023 13:45:09.825 * Done loading RDB, keys loaded: 0, keys expired: 0.
+13365:M 20 Feb 2023 13:45:09.825 * DB loaded from disk: 0.000 seconds
+13365:M 20 Feb 2023 13:45:09.825 * Ready to accept connections
+16030:C 20 Feb 2023 13:55:01.468 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+16030:C 20 Feb 2023 13:55:01.468 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=16030, just started
+16030:C 20 Feb 2023 13:55:01.468 # Configuration loaded
+16030:M 20 Feb 2023 13:55:01.468 * monotonic clock: POSIX clock_gettime
+16030:M 20 Feb 2023 13:55:01.468 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+16030:M 20 Feb 2023 13:55:01.469 * Running mode=standalone, port=6379.
+16030:M 20 Feb 2023 13:55:01.469 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+16030:M 20 Feb 2023 13:55:01.469 # Server initialized
+16030:M 20 Feb 2023 13:55:01.469 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+16030:M 20 Feb 2023 13:55:01.469 * Loading RDB produced by version 7.0.4
+16030:M 20 Feb 2023 13:55:01.469 * RDB age 8088 seconds
+16030:M 20 Feb 2023 13:55:01.469 * RDB memory usage when created 0.82 Mb
+16030:M 20 Feb 2023 13:55:01.469 * Done loading RDB, keys loaded: 0, keys expired: 0.
+16030:M 20 Feb 2023 13:55:01.469 * DB loaded from disk: 0.000 seconds
+16030:M 20 Feb 2023 13:55:01.469 * Ready to accept connections
+16454:C 20 Feb 2023 13:56:09.768 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+16454:C 20 Feb 2023 13:56:09.768 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=16454, just started
+16454:C 20 Feb 2023 13:56:09.768 # Configuration loaded
+16454:M 20 Feb 2023 13:56:09.769 * monotonic clock: POSIX clock_gettime
+16454:M 20 Feb 2023 13:56:09.769 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+16454:M 20 Feb 2023 13:56:09.770 * Running mode=standalone, port=6379.
+16454:M 20 Feb 2023 13:56:09.770 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+16454:M 20 Feb 2023 13:56:09.770 # Server initialized
+16454:M 20 Feb 2023 13:56:09.770 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+16454:M 20 Feb 2023 13:56:09.770 * Loading RDB produced by version 7.0.4
+16454:M 20 Feb 2023 13:56:09.770 * RDB age 8156 seconds
+16454:M 20 Feb 2023 13:56:09.770 * RDB memory usage when created 0.82 Mb
+16454:M 20 Feb 2023 13:56:09.770 * Done loading RDB, keys loaded: 0, keys expired: 0.
+16454:M 20 Feb 2023 13:56:09.770 * DB loaded from disk: 0.000 seconds
+16454:M 20 Feb 2023 13:56:09.770 * Ready to accept connections
+16454:M 20 Feb 2023 17:34:00.359 * 1 changes in 3600 seconds. Saving...
+16454:M 20 Feb 2023 17:34:00.362 * Background saving started by pid 30190
+30190:C 20 Feb 2023 17:34:00.373 * DB saved on disk
+30190:C 20 Feb 2023 17:34:00.373 * Fork CoW for RDB: current 0 MB, peak 0 MB, average 0 MB
+16454:M 20 Feb 2023 17:34:00.462 * Background saving terminated with success
+16454:M 20 Feb 2023 18:34:01.079 * 1 changes in 3600 seconds. Saving...
+16454:M 20 Feb 2023 18:34:01.079 * Background saving started by pid 10690
+10690:C 20 Feb 2023 18:34:01.091 * DB saved on disk
+10690:C 20 Feb 2023 18:34:01.091 * Fork CoW for RDB: current 0 MB, peak 0 MB, average 0 MB
+16454:M 20 Feb 2023 18:34:01.179 * Background saving terminated with success
+9802:C 21 Feb 2023 15:06:45.234 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+9802:C 21 Feb 2023 15:06:45.235 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=9802, just started
+9802:C 21 Feb 2023 15:06:45.235 # Configuration loaded
+9802:M 21 Feb 2023 15:06:45.235 * monotonic clock: POSIX clock_gettime
+9802:M 21 Feb 2023 15:06:45.236 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+9802:M 21 Feb 2023 15:06:45.236 * Running mode=standalone, port=6379.
+9802:M 21 Feb 2023 15:06:45.236 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+9802:M 21 Feb 2023 15:06:45.236 # Server initialized
+9802:M 21 Feb 2023 15:06:45.236 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+9802:M 21 Feb 2023 15:06:45.237 * Loading RDB produced by version 7.0.4
+9802:M 21 Feb 2023 15:06:45.237 * RDB age 73964 seconds
+9802:M 21 Feb 2023 15:06:45.237 * RDB memory usage when created 0.94 Mb
+9802:M 21 Feb 2023 15:06:45.237 * Done loading RDB, keys loaded: 1, keys expired: 0.
+9802:M 21 Feb 2023 15:06:45.237 * DB loaded from disk: 0.000 seconds
+9802:M 21 Feb 2023 15:06:45.237 * Ready to accept connections
+16171:C 21 Feb 2023 15:34:32.948 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+16171:C 21 Feb 2023 15:34:32.948 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=16171, just started
+16171:C 21 Feb 2023 15:34:32.948 # Configuration loaded
+16171:M 21 Feb 2023 15:34:32.948 * monotonic clock: POSIX clock_gettime
+16171:M 21 Feb 2023 15:34:32.948 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+16171:M 21 Feb 2023 15:34:32.949 * Running mode=standalone, port=6379.
+16171:M 21 Feb 2023 15:34:32.949 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+16171:M 21 Feb 2023 15:34:32.949 # Server initialized
+16171:M 21 Feb 2023 15:34:32.949 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+16171:M 21 Feb 2023 15:34:32.949 * Loading RDB produced by version 7.0.4
+16171:M 21 Feb 2023 15:34:32.949 * RDB age 75631 seconds
+16171:M 21 Feb 2023 15:34:32.949 * RDB memory usage when created 0.94 Mb
+16171:M 21 Feb 2023 15:34:32.949 * Done loading RDB, keys loaded: 1, keys expired: 0.
+16171:M 21 Feb 2023 15:34:32.949 * DB loaded from disk: 0.000 seconds
+16171:M 21 Feb 2023 15:34:32.949 * Ready to accept connections
+19358:C 21 Feb 2023 15:46:32.511 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+19358:C 21 Feb 2023 15:46:32.511 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=19358, just started
+19358:C 21 Feb 2023 15:46:32.511 # Configuration loaded
+19358:M 21 Feb 2023 15:46:32.512 * monotonic clock: POSIX clock_gettime
+19358:M 21 Feb 2023 15:46:32.512 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+19358:M 21 Feb 2023 15:46:32.512 * Running mode=standalone, port=6379.
+19358:M 21 Feb 2023 15:46:32.512 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+19358:M 21 Feb 2023 15:46:32.512 # Server initialized
+19358:M 21 Feb 2023 15:46:32.512 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+19358:M 21 Feb 2023 15:46:32.512 * Loading RDB produced by version 7.0.4
+19358:M 21 Feb 2023 15:46:32.513 * RDB age 76351 seconds
+19358:M 21 Feb 2023 15:46:32.513 * RDB memory usage when created 0.94 Mb
+19358:M 21 Feb 2023 15:46:32.513 * Done loading RDB, keys loaded: 1, keys expired: 0.
+19358:M 21 Feb 2023 15:46:32.513 * DB loaded from disk: 0.000 seconds
+19358:M 21 Feb 2023 15:46:32.513 * Ready to accept connections
+15672:C 21 Feb 2023 20:26:37.763 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+15672:C 21 Feb 2023 20:26:37.765 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=15672, just started
+15672:C 21 Feb 2023 20:26:37.765 # Configuration loaded
+15672:M 21 Feb 2023 20:26:37.766 * monotonic clock: POSIX clock_gettime
+15672:M 21 Feb 2023 20:26:37.766 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+15672:M 21 Feb 2023 20:26:37.766 * Running mode=standalone, port=6379.
+15672:M 21 Feb 2023 20:26:37.766 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+15672:M 21 Feb 2023 20:26:37.766 # Server initialized
+15672:M 21 Feb 2023 20:26:37.766 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+15672:M 21 Feb 2023 20:26:37.768 * Loading RDB produced by version 7.0.4
+15672:M 21 Feb 2023 20:26:37.768 * RDB age 93156 seconds
+15672:M 21 Feb 2023 20:26:37.768 * RDB memory usage when created 0.94 Mb
+15672:M 21 Feb 2023 20:26:37.768 * Done loading RDB, keys loaded: 1, keys expired: 0.
+15672:M 21 Feb 2023 20:26:37.768 * DB loaded from disk: 0.002 seconds
+15672:M 21 Feb 2023 20:26:37.768 * Ready to accept connections
+20537:C 21 Feb 2023 20:37:36.262 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+20537:C 21 Feb 2023 20:37:36.262 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=20537, just started
+20537:C 21 Feb 2023 20:37:36.262 # Configuration loaded
+20537:M 21 Feb 2023 20:37:36.262 * monotonic clock: POSIX clock_gettime
+20537:M 21 Feb 2023 20:37:36.262 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+20537:M 21 Feb 2023 20:37:36.263 * Running mode=standalone, port=6379.
+20537:M 21 Feb 2023 20:37:36.263 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+20537:M 21 Feb 2023 20:37:36.263 # Server initialized
+20537:M 21 Feb 2023 20:37:36.263 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+20537:M 21 Feb 2023 20:37:36.263 * Loading RDB produced by version 7.0.4
+20537:M 21 Feb 2023 20:37:36.263 * RDB age 93815 seconds
+20537:M 21 Feb 2023 20:37:36.263 * RDB memory usage when created 0.94 Mb
+20537:M 21 Feb 2023 20:37:36.263 * Done loading RDB, keys loaded: 1, keys expired: 0.
+20537:M 21 Feb 2023 20:37:36.263 * DB loaded from disk: 0.000 seconds
+20537:M 21 Feb 2023 20:37:36.263 * Ready to accept connections
+20992:C 21 Feb 2023 20:39:44.856 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+20992:C 21 Feb 2023 20:39:44.857 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=20992, just started
+20992:C 21 Feb 2023 20:39:44.857 # Configuration loaded
+20992:M 21 Feb 2023 20:39:44.857 * monotonic clock: POSIX clock_gettime
+20992:M 21 Feb 2023 20:39:44.858 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+20992:M 21 Feb 2023 20:39:44.859 * Running mode=standalone, port=6379.
+20992:M 21 Feb 2023 20:39:44.859 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+20992:M 21 Feb 2023 20:39:44.859 # Server initialized
+20992:M 21 Feb 2023 20:39:44.859 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+20992:M 21 Feb 2023 20:39:44.859 * Loading RDB produced by version 7.0.4
+20992:M 21 Feb 2023 20:39:44.859 * RDB age 93943 seconds
+20992:M 21 Feb 2023 20:39:44.859 * RDB memory usage when created 0.94 Mb
+20992:M 21 Feb 2023 20:39:44.859 * Done loading RDB, keys loaded: 1, keys expired: 0.
+20992:M 21 Feb 2023 20:39:44.859 * DB loaded from disk: 0.000 seconds
+20992:M 21 Feb 2023 20:39:44.859 * Ready to accept connections
+24884:C 21 Feb 2023 20:58:15.819 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+24884:C 21 Feb 2023 20:58:15.819 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=24884, just started
+24884:C 21 Feb 2023 20:58:15.819 # Configuration loaded
+24884:M 21 Feb 2023 20:58:15.819 * monotonic clock: POSIX clock_gettime
+24884:M 21 Feb 2023 20:58:15.819 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+24884:M 21 Feb 2023 20:58:15.820 * Running mode=standalone, port=6379.
+24884:M 21 Feb 2023 20:58:15.820 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+24884:M 21 Feb 2023 20:58:15.820 # Server initialized
+24884:M 21 Feb 2023 20:58:15.820 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+24884:M 21 Feb 2023 20:58:15.820 * Ready to accept connections
+25630:C 21 Feb 2023 21:00:59.208 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+25630:C 21 Feb 2023 21:00:59.208 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=25630, just started
+25630:C 21 Feb 2023 21:00:59.208 # Configuration loaded
+25630:M 21 Feb 2023 21:00:59.209 * monotonic clock: POSIX clock_gettime
+25630:M 21 Feb 2023 21:00:59.209 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+25630:M 21 Feb 2023 21:00:59.210 * Running mode=standalone, port=6379.
+25630:M 21 Feb 2023 21:00:59.210 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+25630:M 21 Feb 2023 21:00:59.210 # Server initialized
+25630:M 21 Feb 2023 21:00:59.210 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+25630:M 21 Feb 2023 21:00:59.210 * Ready to accept connections
+32086:C 21 Feb 2023 21:25:44.583 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+32086:C 21 Feb 2023 21:25:44.583 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=32086, just started
+32086:C 21 Feb 2023 21:25:44.583 # Configuration loaded
+32086:M 21 Feb 2023 21:25:44.584 * monotonic clock: POSIX clock_gettime
+32086:M 21 Feb 2023 21:25:44.584 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+32086:M 21 Feb 2023 21:25:44.584 * Running mode=standalone, port=6379.
+32086:M 21 Feb 2023 21:25:44.584 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+32086:M 21 Feb 2023 21:25:44.584 # Server initialized
+32086:M 21 Feb 2023 21:25:44.584 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+32086:M 21 Feb 2023 21:25:44.585 * Ready to accept connections
+328:C 21 Feb 2023 21:29:03.130 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+328:C 21 Feb 2023 21:29:03.130 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=328, just started
+328:C 21 Feb 2023 21:29:03.130 # Configuration loaded
+328:M 21 Feb 2023 21:29:03.131 * monotonic clock: POSIX clock_gettime
+328:M 21 Feb 2023 21:29:03.131 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+328:M 21 Feb 2023 21:29:03.131 * Running mode=standalone, port=6379.
+328:M 21 Feb 2023 21:29:03.131 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+328:M 21 Feb 2023 21:29:03.131 # Server initialized
+328:M 21 Feb 2023 21:29:03.131 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+328:M 21 Feb 2023 21:29:03.131 * Ready to accept connections
+5360:C 21 Feb 2023 21:51:28.651 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+5360:C 21 Feb 2023 21:51:28.651 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=5360, just started
+5360:C 21 Feb 2023 21:51:28.651 # Configuration loaded
+5360:M 21 Feb 2023 21:51:28.652 * monotonic clock: POSIX clock_gettime
+5360:M 21 Feb 2023 21:51:28.652 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+5360:M 21 Feb 2023 21:51:28.652 * Running mode=standalone, port=6379.
+5360:M 21 Feb 2023 21:51:28.652 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+5360:M 21 Feb 2023 21:51:28.652 # Server initialized
+5360:M 21 Feb 2023 21:51:28.652 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+5360:M 21 Feb 2023 21:51:28.653 * Ready to accept connections
+5574:C 21 Feb 2023 21:52:02.064 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+5574:C 21 Feb 2023 21:52:02.064 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=5574, just started
+5574:C 21 Feb 2023 21:52:02.064 # Configuration loaded
+5574:M 21 Feb 2023 21:52:02.065 * monotonic clock: POSIX clock_gettime
+5574:M 21 Feb 2023 21:52:02.065 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+5574:M 21 Feb 2023 21:52:02.065 * Running mode=standalone, port=6379.
+5574:M 21 Feb 2023 21:52:02.065 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+5574:M 21 Feb 2023 21:52:02.065 # Server initialized
+5574:M 21 Feb 2023 21:52:02.065 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+5574:M 21 Feb 2023 21:52:02.065 * Ready to accept connections
+6457:C 21 Feb 2023 21:55:48.804 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+6457:C 21 Feb 2023 21:55:48.804 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=6457, just started
+6457:C 21 Feb 2023 21:55:48.804 # Configuration loaded
+6457:M 21 Feb 2023 21:55:48.804 * monotonic clock: POSIX clock_gettime
+6457:M 21 Feb 2023 21:55:48.805 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+6457:M 21 Feb 2023 21:55:48.805 * Running mode=standalone, port=6379.
+6457:M 21 Feb 2023 21:55:48.805 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+6457:M 21 Feb 2023 21:55:48.805 # Server initialized
+6457:M 21 Feb 2023 21:55:48.805 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+6457:M 21 Feb 2023 21:55:48.805 * Ready to accept connections
+6820:C 21 Feb 2023 21:57:19.995 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+6820:C 21 Feb 2023 21:57:19.995 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=6820, just started
+6820:C 21 Feb 2023 21:57:19.995 # Configuration loaded
+6820:M 21 Feb 2023 21:57:19.995 * monotonic clock: POSIX clock_gettime
+6820:M 21 Feb 2023 21:57:19.996 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+6820:M 21 Feb 2023 21:57:19.996 * Running mode=standalone, port=6379.
+6820:M 21 Feb 2023 21:57:19.996 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+6820:M 21 Feb 2023 21:57:19.996 # Server initialized
+6820:M 21 Feb 2023 21:57:19.996 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+6820:M 21 Feb 2023 21:57:19.996 * Ready to accept connections
+6995:C 21 Feb 2023 21:57:47.690 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+6995:C 21 Feb 2023 21:57:47.690 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=6995, just started
+6995:C 21 Feb 2023 21:57:47.690 # Configuration loaded
+6995:M 21 Feb 2023 21:57:47.690 * monotonic clock: POSIX clock_gettime
+6995:M 21 Feb 2023 21:57:47.691 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+6995:M 21 Feb 2023 21:57:47.691 * Running mode=standalone, port=6379.
+6995:M 21 Feb 2023 21:57:47.691 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+6995:M 21 Feb 2023 21:57:47.691 # Server initialized
+6995:M 21 Feb 2023 21:57:47.691 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+6995:M 21 Feb 2023 21:57:47.691 * Ready to accept connections
+9088:C 21 Feb 2023 22:07:14.697 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+9088:C 21 Feb 2023 22:07:14.697 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=9088, just started
+9088:C 21 Feb 2023 22:07:14.697 # Configuration loaded
+9088:M 21 Feb 2023 22:07:14.698 * monotonic clock: POSIX clock_gettime
+9088:M 21 Feb 2023 22:07:14.698 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+9088:M 21 Feb 2023 22:07:14.698 * Running mode=standalone, port=6379.
+9088:M 21 Feb 2023 22:07:14.698 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+9088:M 21 Feb 2023 22:07:14.698 # Server initialized
+9088:M 21 Feb 2023 22:07:14.698 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+9088:M 21 Feb 2023 22:07:14.698 * Ready to accept connections
+20652:C 21 Feb 2023 23:06:14.792 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+20652:C 21 Feb 2023 23:06:14.792 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=20652, just started
+20652:C 21 Feb 2023 23:06:14.792 # Configuration loaded
+20652:M 21 Feb 2023 23:06:14.792 * monotonic clock: POSIX clock_gettime
+20652:M 21 Feb 2023 23:06:14.792 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+20652:M 21 Feb 2023 23:06:14.793 * Running mode=standalone, port=6379.
+20652:M 21 Feb 2023 23:06:14.793 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+20652:M 21 Feb 2023 23:06:14.793 # Server initialized
+20652:M 21 Feb 2023 23:06:14.793 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+20652:M 21 Feb 2023 23:06:14.793 * Ready to accept connections
+14227:C 22 Feb 2023 09:32:52.128 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+14227:C 22 Feb 2023 09:32:52.128 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=14227, just started
+14227:C 22 Feb 2023 09:32:52.128 # Configuration loaded
+14227:M 22 Feb 2023 09:32:52.129 * monotonic clock: POSIX clock_gettime
+14227:M 22 Feb 2023 09:32:52.129 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+14227:M 22 Feb 2023 09:32:52.130 * Running mode=standalone, port=6379.
+14227:M 22 Feb 2023 09:32:52.130 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+14227:M 22 Feb 2023 09:32:52.130 # Server initialized
+14227:M 22 Feb 2023 09:32:52.130 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+14227:M 22 Feb 2023 09:32:52.130 * Ready to accept connections
+15389:C 22 Feb 2023 09:36:08.366 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+15389:C 22 Feb 2023 09:36:08.366 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=15389, just started
+15389:C 22 Feb 2023 09:36:08.366 # Configuration loaded
+15389:M 22 Feb 2023 09:36:08.366 * monotonic clock: POSIX clock_gettime
+15389:M 22 Feb 2023 09:36:08.367 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+15389:M 22 Feb 2023 09:36:08.367 * Running mode=standalone, port=6379.
+15389:M 22 Feb 2023 09:36:08.367 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+15389:M 22 Feb 2023 09:36:08.367 # Server initialized
+15389:M 22 Feb 2023 09:36:08.367 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+15389:M 22 Feb 2023 09:36:08.367 * Ready to accept connections
+17062:C 22 Feb 2023 09:42:15.948 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+17062:C 22 Feb 2023 09:42:15.948 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=17062, just started
+17062:C 22 Feb 2023 09:42:15.948 # Configuration loaded
+17062:M 22 Feb 2023 09:42:15.948 * monotonic clock: POSIX clock_gettime
+17062:M 22 Feb 2023 09:42:15.948 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+17062:M 22 Feb 2023 09:42:15.949 * Running mode=standalone, port=6379.
+17062:M 22 Feb 2023 09:42:15.949 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+17062:M 22 Feb 2023 09:42:15.949 # Server initialized
+17062:M 22 Feb 2023 09:42:15.949 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+17062:M 22 Feb 2023 09:42:15.949 * Ready to accept connections
+19934:C 22 Feb 2023 09:53:06.103 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+19934:C 22 Feb 2023 09:53:06.103 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=19934, just started
+19934:C 22 Feb 2023 09:53:06.103 # Configuration loaded
+19934:M 22 Feb 2023 09:53:06.104 * monotonic clock: POSIX clock_gettime
+19934:M 22 Feb 2023 09:53:06.104 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+19934:M 22 Feb 2023 09:53:06.105 * Running mode=standalone, port=6379.
+19934:M 22 Feb 2023 09:53:06.105 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+19934:M 22 Feb 2023 09:53:06.105 # Server initialized
+19934:M 22 Feb 2023 09:53:06.105 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+19934:M 22 Feb 2023 09:53:06.105 * Ready to accept connections
+20812:C 22 Feb 2023 09:55:53.312 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+20812:C 22 Feb 2023 09:55:53.312 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=20812, just started
+20812:C 22 Feb 2023 09:55:53.312 # Configuration loaded
+20812:M 22 Feb 2023 09:55:53.312 * monotonic clock: POSIX clock_gettime
+20812:M 22 Feb 2023 09:55:53.312 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+20812:M 22 Feb 2023 09:55:53.313 * Running mode=standalone, port=6379.
+20812:M 22 Feb 2023 09:55:53.313 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+20812:M 22 Feb 2023 09:55:53.313 # Server initialized
+20812:M 22 Feb 2023 09:55:53.313 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+20812:M 22 Feb 2023 09:55:53.313 * Ready to accept connections
+20812:M 22 Feb 2023 10:55:54.075 * 1 changes in 3600 seconds. Saving...
+20812:M 22 Feb 2023 10:55:54.077 * Background saving started by pid 363
+363:C 22 Feb 2023 10:55:54.086 * DB saved on disk
+363:C 22 Feb 2023 10:55:54.086 * Fork CoW for RDB: current 2 MB, peak 2 MB, average 2 MB
+20812:M 22 Feb 2023 10:55:54.177 * Background saving terminated with success
+831:C 22 Feb 2023 21:30:27.047 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+831:C 22 Feb 2023 21:30:27.048 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=831, just started
+831:C 22 Feb 2023 21:30:27.048 # Configuration loaded
+831:M 22 Feb 2023 21:30:27.049 * monotonic clock: POSIX clock_gettime
+831:M 22 Feb 2023 21:30:27.049 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+831:M 22 Feb 2023 21:30:27.049 * Running mode=standalone, port=6379.
+831:M 22 Feb 2023 21:30:27.049 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+831:M 22 Feb 2023 21:30:27.049 # Server initialized
+831:M 22 Feb 2023 21:30:27.049 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+831:M 22 Feb 2023 21:30:27.051 * Loading RDB produced by version 7.0.4
+831:M 22 Feb 2023 21:30:27.051 * RDB age 38073 seconds
+831:M 22 Feb 2023 21:30:27.051 * RDB memory usage when created 0.89 Mb
+831:M 22 Feb 2023 21:30:27.051 * Done loading RDB, keys loaded: 1, keys expired: 0.
+831:M 22 Feb 2023 21:30:27.051 * DB loaded from disk: 0.002 seconds
+831:M 22 Feb 2023 21:30:27.051 * Ready to accept connections
+11398:C 23 Feb 2023 09:27:49.962 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+11398:C 23 Feb 2023 09:27:49.962 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=11398, just started
+11398:C 23 Feb 2023 09:27:49.962 # Configuration loaded
+11398:M 23 Feb 2023 09:27:49.962 * monotonic clock: POSIX clock_gettime
+11398:M 23 Feb 2023 09:27:49.963 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+11398:M 23 Feb 2023 09:27:49.963 * Running mode=standalone, port=6379.
+11398:M 23 Feb 2023 09:27:49.963 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+11398:M 23 Feb 2023 09:27:49.963 # Server initialized
+11398:M 23 Feb 2023 09:27:49.963 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+11398:M 23 Feb 2023 09:27:49.963 * Loading RDB produced by version 7.0.4
+11398:M 23 Feb 2023 09:27:49.963 * RDB age 81115 seconds
+11398:M 23 Feb 2023 09:27:49.964 * RDB memory usage when created 0.89 Mb
+11398:M 23 Feb 2023 09:27:49.964 * Done loading RDB, keys loaded: 1, keys expired: 0.
+11398:M 23 Feb 2023 09:27:49.964 * DB loaded from disk: 0.001 seconds
+11398:M 23 Feb 2023 09:27:49.964 * Ready to accept connections
+22256:C 23 Feb 2023 10:16:52.656 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+22256:C 23 Feb 2023 10:16:52.657 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=22256, just started
+22256:C 23 Feb 2023 10:16:52.657 # Configuration loaded
+22256:M 23 Feb 2023 10:16:52.657 * monotonic clock: POSIX clock_gettime
+22256:M 23 Feb 2023 10:16:52.657 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+22256:M 23 Feb 2023 10:16:52.658 * Running mode=standalone, port=6379.
+22256:M 23 Feb 2023 10:16:52.658 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+22256:M 23 Feb 2023 10:16:52.658 # Server initialized
+22256:M 23 Feb 2023 10:16:52.658 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+22256:M 23 Feb 2023 10:16:52.658 * Loading RDB produced by version 7.0.4
+22256:M 23 Feb 2023 10:16:52.658 * RDB age 84058 seconds
+22256:M 23 Feb 2023 10:16:52.658 * RDB memory usage when created 0.89 Mb
+22256:M 23 Feb 2023 10:16:52.658 * Done loading RDB, keys loaded: 0, keys expired: 1.
+22256:M 23 Feb 2023 10:16:52.658 * DB loaded from disk: 0.001 seconds
+22256:M 23 Feb 2023 10:16:52.658 * Ready to accept connections
+22848:C 23 Feb 2023 10:19:08.647 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+22848:C 23 Feb 2023 10:19:08.647 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=22848, just started
+22848:C 23 Feb 2023 10:19:08.647 # Configuration loaded
+22848:M 23 Feb 2023 10:19:08.647 * monotonic clock: POSIX clock_gettime
+22848:M 23 Feb 2023 10:19:08.647 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+22848:M 23 Feb 2023 10:19:08.648 * Running mode=standalone, port=6379.
+22848:M 23 Feb 2023 10:19:08.648 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+22848:M 23 Feb 2023 10:19:08.648 # Server initialized
+22848:M 23 Feb 2023 10:19:08.648 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+22848:M 23 Feb 2023 10:19:08.648 * Loading RDB produced by version 7.0.4
+22848:M 23 Feb 2023 10:19:08.648 * RDB age 84194 seconds
+22848:M 23 Feb 2023 10:19:08.648 * RDB memory usage when created 0.89 Mb
+22848:M 23 Feb 2023 10:19:08.648 * Done loading RDB, keys loaded: 0, keys expired: 1.
+22848:M 23 Feb 2023 10:19:08.648 * DB loaded from disk: 0.000 seconds
+22848:M 23 Feb 2023 10:19:08.648 * Ready to accept connections
+27371:C 23 Feb 2023 10:36:45.980 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+27371:C 23 Feb 2023 10:36:45.980 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=27371, just started
+27371:C 23 Feb 2023 10:36:45.980 # Configuration loaded
+27371:M 23 Feb 2023 10:36:45.981 * monotonic clock: POSIX clock_gettime
+27371:M 23 Feb 2023 10:36:45.981 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+27371:M 23 Feb 2023 10:36:45.981 * Running mode=standalone, port=6379.
+27371:M 23 Feb 2023 10:36:45.981 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+27371:M 23 Feb 2023 10:36:45.981 # Server initialized
+27371:M 23 Feb 2023 10:36:45.981 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+27371:M 23 Feb 2023 10:36:45.981 * Loading RDB produced by version 7.0.4
+27371:M 23 Feb 2023 10:36:45.981 * RDB age 85251 seconds
+27371:M 23 Feb 2023 10:36:45.981 * RDB memory usage when created 0.89 Mb
+27371:M 23 Feb 2023 10:36:45.981 * Done loading RDB, keys loaded: 0, keys expired: 1.
+27371:M 23 Feb 2023 10:36:45.981 * DB loaded from disk: 0.000 seconds
+27371:M 23 Feb 2023 10:36:45.981 * Ready to accept connections
+29052:C 23 Feb 2023 10:41:53.690 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+29052:C 23 Feb 2023 10:41:53.690 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=29052, just started
+29052:C 23 Feb 2023 10:41:53.690 # Configuration loaded
+29052:M 23 Feb 2023 10:41:53.691 * monotonic clock: POSIX clock_gettime
+29052:M 23 Feb 2023 10:41:53.691 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+29052:M 23 Feb 2023 10:41:53.691 * Running mode=standalone, port=6379.
+29052:M 23 Feb 2023 10:41:53.691 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+29052:M 23 Feb 2023 10:41:53.691 # Server initialized
+29052:M 23 Feb 2023 10:41:53.691 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+29052:M 23 Feb 2023 10:41:53.692 * Loading RDB produced by version 7.0.4
+29052:M 23 Feb 2023 10:41:53.692 * RDB age 85559 seconds
+29052:M 23 Feb 2023 10:41:53.692 * RDB memory usage when created 0.89 Mb
+29052:M 23 Feb 2023 10:41:53.692 * Done loading RDB, keys loaded: 0, keys expired: 1.
+29052:M 23 Feb 2023 10:41:53.692 * DB loaded from disk: 0.000 seconds
+29052:M 23 Feb 2023 10:41:53.692 * Ready to accept connections
+30635:C 23 Feb 2023 10:47:13.059 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+30635:C 23 Feb 2023 10:47:13.060 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=30635, just started
+30635:C 23 Feb 2023 10:47:13.060 # Configuration loaded
+30635:M 23 Feb 2023 10:47:13.060 * monotonic clock: POSIX clock_gettime
+30635:M 23 Feb 2023 10:47:13.060 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+30635:M 23 Feb 2023 10:47:13.060 * Running mode=standalone, port=6379.
+30635:M 23 Feb 2023 10:47:13.060 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+30635:M 23 Feb 2023 10:47:13.060 # Server initialized
+30635:M 23 Feb 2023 10:47:13.060 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+30635:M 23 Feb 2023 10:47:13.061 * Loading RDB produced by version 7.0.4
+30635:M 23 Feb 2023 10:47:13.061 * RDB age 85879 seconds
+30635:M 23 Feb 2023 10:47:13.061 * RDB memory usage when created 0.89 Mb
+30635:M 23 Feb 2023 10:47:13.061 * Done loading RDB, keys loaded: 0, keys expired: 1.
+30635:M 23 Feb 2023 10:47:13.061 * DB loaded from disk: 0.000 seconds
+30635:M 23 Feb 2023 10:47:13.061 * Ready to accept connections
+31279:C 23 Feb 2023 10:49:00.611 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+31279:C 23 Feb 2023 10:49:00.611 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=31279, just started
+31279:C 23 Feb 2023 10:49:00.611 # Configuration loaded
+31279:M 23 Feb 2023 10:49:00.611 * monotonic clock: POSIX clock_gettime
+31279:M 23 Feb 2023 10:49:00.612 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+31279:M 23 Feb 2023 10:49:00.612 * Running mode=standalone, port=6379.
+31279:M 23 Feb 2023 10:49:00.612 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+31279:M 23 Feb 2023 10:49:00.612 # Server initialized
+31279:M 23 Feb 2023 10:49:00.612 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+31279:M 23 Feb 2023 10:49:00.612 * Loading RDB produced by version 7.0.4
+31279:M 23 Feb 2023 10:49:00.612 * RDB age 85986 seconds
+31279:M 23 Feb 2023 10:49:00.612 * RDB memory usage when created 0.89 Mb
+31279:M 23 Feb 2023 10:49:00.612 * Done loading RDB, keys loaded: 0, keys expired: 1.
+31279:M 23 Feb 2023 10:49:00.612 * DB loaded from disk: 0.000 seconds
+31279:M 23 Feb 2023 10:49:00.612 * Ready to accept connections
+8383:C 23 Feb 2023 11:27:09.504 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+8383:C 23 Feb 2023 11:27:09.504 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=8383, just started
+8383:C 23 Feb 2023 11:27:09.504 # Configuration loaded
+8383:M 23 Feb 2023 11:27:09.504 * monotonic clock: POSIX clock_gettime
+8383:M 23 Feb 2023 11:27:09.505 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+8383:M 23 Feb 2023 11:27:09.505 * Running mode=standalone, port=6379.
+8383:M 23 Feb 2023 11:27:09.505 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+8383:M 23 Feb 2023 11:27:09.505 # Server initialized
+8383:M 23 Feb 2023 11:27:09.505 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+8383:M 23 Feb 2023 11:27:09.505 * Loading RDB produced by version 7.0.4
+8383:M 23 Feb 2023 11:27:09.505 * RDB age 88275 seconds
+8383:M 23 Feb 2023 11:27:09.505 * RDB memory usage when created 0.89 Mb
+8383:M 23 Feb 2023 11:27:09.505 * Done loading RDB, keys loaded: 0, keys expired: 1.
+8383:M 23 Feb 2023 11:27:09.505 * DB loaded from disk: 0.000 seconds
+8383:M 23 Feb 2023 11:27:09.505 * Ready to accept connections
+8999:C 23 Feb 2023 11:29:07.540 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+8999:C 23 Feb 2023 11:29:07.540 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=8999, just started
+8999:C 23 Feb 2023 11:29:07.540 # Configuration loaded
+8999:M 23 Feb 2023 11:29:07.541 * monotonic clock: POSIX clock_gettime
+8999:M 23 Feb 2023 11:29:07.541 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+8999:M 23 Feb 2023 11:29:07.541 * Running mode=standalone, port=6379.
+8999:M 23 Feb 2023 11:29:07.541 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+8999:M 23 Feb 2023 11:29:07.541 # Server initialized
+8999:M 23 Feb 2023 11:29:07.541 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+8999:M 23 Feb 2023 11:29:07.541 * Loading RDB produced by version 7.0.4
+8999:M 23 Feb 2023 11:29:07.541 * RDB age 88393 seconds
+8999:M 23 Feb 2023 11:29:07.542 * RDB memory usage when created 0.89 Mb
+8999:M 23 Feb 2023 11:29:07.542 * Done loading RDB, keys loaded: 0, keys expired: 1.
+8999:M 23 Feb 2023 11:29:07.542 * DB loaded from disk: 0.000 seconds
+8999:M 23 Feb 2023 11:29:07.542 * Ready to accept connections
+10265:C 23 Feb 2023 11:32:54.525 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+10265:C 23 Feb 2023 11:32:54.525 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=10265, just started
+10265:C 23 Feb 2023 11:32:54.525 # Configuration loaded
+10265:M 23 Feb 2023 11:32:54.526 * monotonic clock: POSIX clock_gettime
+10265:M 23 Feb 2023 11:32:54.526 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+10265:M 23 Feb 2023 11:32:54.526 * Running mode=standalone, port=6379.
+10265:M 23 Feb 2023 11:32:54.526 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+10265:M 23 Feb 2023 11:32:54.526 # Server initialized
+10265:M 23 Feb 2023 11:32:54.526 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+10265:M 23 Feb 2023 11:32:54.526 * Ready to accept connections
+27169:C 23 Feb 2023 15:32:00.064 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+27169:C 23 Feb 2023 15:32:00.065 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=27169, just started
+27169:C 23 Feb 2023 15:32:00.065 # Configuration loaded
+27169:M 23 Feb 2023 15:32:00.065 * monotonic clock: POSIX clock_gettime
+27169:M 23 Feb 2023 15:32:00.065 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+27169:M 23 Feb 2023 15:32:00.066 * Running mode=standalone, port=6379.
+27169:M 23 Feb 2023 15:32:00.066 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+27169:M 23 Feb 2023 15:32:00.066 # Server initialized
+27169:M 23 Feb 2023 15:32:00.066 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+27169:M 23 Feb 2023 15:32:00.066 * Ready to accept connections
+27496:C 23 Feb 2023 15:32:39.360 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+27496:C 23 Feb 2023 15:32:39.360 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=27496, just started
+27496:C 23 Feb 2023 15:32:39.360 # Configuration loaded
+27496:M 23 Feb 2023 15:32:39.361 * monotonic clock: POSIX clock_gettime
+27496:M 23 Feb 2023 15:32:39.361 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+27496:M 23 Feb 2023 15:32:39.361 * Running mode=standalone, port=6379.
+27496:M 23 Feb 2023 15:32:39.361 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+27496:M 23 Feb 2023 15:32:39.361 # Server initialized
+27496:M 23 Feb 2023 15:32:39.361 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+27496:M 23 Feb 2023 15:32:39.361 * Ready to accept connections
+27813:C 23 Feb 2023 15:33:11.857 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+27813:C 23 Feb 2023 15:33:11.857 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=27813, just started
+27813:C 23 Feb 2023 15:33:11.857 # Configuration loaded
+27813:M 23 Feb 2023 15:33:11.857 * monotonic clock: POSIX clock_gettime
+27813:M 23 Feb 2023 15:33:11.858 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+27813:M 23 Feb 2023 15:33:11.858 * Running mode=standalone, port=6379.
+27813:M 23 Feb 2023 15:33:11.858 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+27813:M 23 Feb 2023 15:33:11.858 # Server initialized
+27813:M 23 Feb 2023 15:33:11.858 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+27813:M 23 Feb 2023 15:33:11.858 * Ready to accept connections
+28115:C 23 Feb 2023 15:33:52.140 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+28115:C 23 Feb 2023 15:33:52.140 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=28115, just started
+28115:C 23 Feb 2023 15:33:52.140 # Configuration loaded
+28115:M 23 Feb 2023 15:33:52.140 * monotonic clock: POSIX clock_gettime
+28115:M 23 Feb 2023 15:33:52.140 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+28115:M 23 Feb 2023 15:33:52.141 * Running mode=standalone, port=6379.
+28115:M 23 Feb 2023 15:33:52.141 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+28115:M 23 Feb 2023 15:33:52.141 # Server initialized
+28115:M 23 Feb 2023 15:33:52.141 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+28115:M 23 Feb 2023 15:33:52.141 * Ready to accept connections
+550:C 23 Feb 2023 15:54:46.637 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+550:C 23 Feb 2023 15:54:46.637 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=550, just started
+550:C 23 Feb 2023 15:54:46.637 # Configuration loaded
+550:M 23 Feb 2023 15:54:46.638 * monotonic clock: POSIX clock_gettime
+550:M 23 Feb 2023 15:54:46.638 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+550:M 23 Feb 2023 15:54:46.638 * Running mode=standalone, port=6379.
+550:M 23 Feb 2023 15:54:46.638 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+550:M 23 Feb 2023 15:54:46.638 # Server initialized
+550:M 23 Feb 2023 15:54:46.639 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+550:M 23 Feb 2023 15:54:46.639 * Ready to accept connections
+7647:C 23 Feb 2023 16:27:35.903 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+7647:C 23 Feb 2023 16:27:35.903 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=7647, just started
+7647:C 23 Feb 2023 16:27:35.903 # Configuration loaded
+7647:M 23 Feb 2023 16:27:35.904 * monotonic clock: POSIX clock_gettime
+7647:M 23 Feb 2023 16:27:35.904 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+7647:M 23 Feb 2023 16:27:35.904 * Running mode=standalone, port=6379.
+7647:M 23 Feb 2023 16:27:35.904 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+7647:M 23 Feb 2023 16:27:35.904 # Server initialized
+7647:M 23 Feb 2023 16:27:35.904 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+7647:M 23 Feb 2023 16:27:35.905 * Ready to accept connections
+7647:M 23 Feb 2023 17:27:36.022 * 1 changes in 3600 seconds. Saving...
+7647:M 23 Feb 2023 17:27:36.027 * Background saving started by pid 20632
+20632:C 23 Feb 2023 17:27:36.030 * DB saved on disk
+20632:C 23 Feb 2023 17:27:36.030 * Fork CoW for RDB: current 2 MB, peak 2 MB, average 2 MB
+7647:M 23 Feb 2023 17:27:36.127 * Background saving terminated with success
+13395:C 24 Feb 2023 20:33:54.472 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+13395:C 24 Feb 2023 20:33:54.472 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=13395, just started
+13395:C 24 Feb 2023 20:33:54.472 # Configuration loaded
+13395:M 24 Feb 2023 20:33:54.472 * monotonic clock: POSIX clock_gettime
+13395:M 24 Feb 2023 20:33:54.472 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+13395:M 24 Feb 2023 20:33:54.473 * Running mode=standalone, port=6379.
+13395:M 24 Feb 2023 20:33:54.473 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+13395:M 24 Feb 2023 20:33:54.473 # Server initialized
+13395:M 24 Feb 2023 20:33:54.473 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+13395:M 24 Feb 2023 20:33:54.473 * Loading RDB produced by version 7.0.4
+13395:M 24 Feb 2023 20:33:54.473 * RDB age 97578 seconds
+13395:M 24 Feb 2023 20:33:54.473 * RDB memory usage when created 0.89 Mb
+13395:M 24 Feb 2023 20:33:54.473 * Done loading RDB, keys loaded: 0, keys expired: 1.
+13395:M 24 Feb 2023 20:33:54.473 * DB loaded from disk: 0.000 seconds
+13395:M 24 Feb 2023 20:33:54.473 * Ready to accept connections
+13395:M 24 Feb 2023 21:33:55.953 * Replication backlog freed after 3600 seconds without connected replicas.
+18136:C 25 Feb 2023 19:52:08.475 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+18136:C 25 Feb 2023 19:52:08.478 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=18136, just started
+18136:C 25 Feb 2023 19:52:08.478 # Configuration loaded
+18136:M 25 Feb 2023 19:52:08.480 * monotonic clock: POSIX clock_gettime
+18136:M 25 Feb 2023 19:52:08.481 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+18136:M 25 Feb 2023 19:52:08.481 * Running mode=standalone, port=6379.
+18136:M 25 Feb 2023 19:52:08.481 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+18136:M 25 Feb 2023 19:52:08.481 # Server initialized
+18136:M 25 Feb 2023 19:52:08.481 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+18136:M 25 Feb 2023 19:52:08.484 * Loading RDB produced by version 7.0.4
+18136:M 25 Feb 2023 19:52:08.484 * RDB age 181472 seconds
+18136:M 25 Feb 2023 19:52:08.484 * RDB memory usage when created 0.89 Mb
+18136:M 25 Feb 2023 19:52:08.484 * Done loading RDB, keys loaded: 0, keys expired: 1.
+18136:M 25 Feb 2023 19:52:08.484 * DB loaded from disk: 0.002 seconds
+18136:M 25 Feb 2023 19:52:08.484 * Ready to accept connections
+25073:C 25 Feb 2023 20:17:50.320 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+25073:C 25 Feb 2023 20:17:50.321 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=25073, just started
+25073:C 25 Feb 2023 20:17:50.321 # Configuration loaded
+25073:M 25 Feb 2023 20:17:50.321 * monotonic clock: POSIX clock_gettime
+25073:M 25 Feb 2023 20:17:50.322 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+25073:M 25 Feb 2023 20:17:50.322 * Running mode=standalone, port=6379.
+25073:M 25 Feb 2023 20:17:50.322 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+25073:M 25 Feb 2023 20:17:50.322 # Server initialized
+25073:M 25 Feb 2023 20:17:50.322 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+25073:M 25 Feb 2023 20:17:50.323 * Loading RDB produced by version 7.0.4
+25073:M 25 Feb 2023 20:17:50.323 * RDB age 183014 seconds
+25073:M 25 Feb 2023 20:17:50.323 * RDB memory usage when created 0.89 Mb
+25073:M 25 Feb 2023 20:17:50.323 * Done loading RDB, keys loaded: 0, keys expired: 1.
+25073:M 25 Feb 2023 20:17:50.323 * DB loaded from disk: 0.001 seconds
+25073:M 25 Feb 2023 20:17:50.323 * Ready to accept connections
+25609:C 25 Feb 2023 20:19:37.492 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+25609:C 25 Feb 2023 20:19:37.492 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=25609, just started
+25609:C 25 Feb 2023 20:19:37.492 # Configuration loaded
+25609:M 25 Feb 2023 20:19:37.493 * monotonic clock: POSIX clock_gettime
+25609:M 25 Feb 2023 20:19:37.493 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+25609:M 25 Feb 2023 20:19:37.493 * Running mode=standalone, port=6379.
+25609:M 25 Feb 2023 20:19:37.493 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+25609:M 25 Feb 2023 20:19:37.493 # Server initialized
+25609:M 25 Feb 2023 20:19:37.493 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+25609:M 25 Feb 2023 20:19:37.493 * Loading RDB produced by version 7.0.4
+25609:M 25 Feb 2023 20:19:37.493 * RDB age 183121 seconds
+25609:M 25 Feb 2023 20:19:37.493 * RDB memory usage when created 0.89 Mb
+25609:M 25 Feb 2023 20:19:37.493 * Done loading RDB, keys loaded: 0, keys expired: 1.
+25609:M 25 Feb 2023 20:19:37.493 * DB loaded from disk: 0.000 seconds
+25609:M 25 Feb 2023 20:19:37.493 * Ready to accept connections
+28083:C 25 Feb 2023 20:29:23.779 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+28083:C 25 Feb 2023 20:29:23.779 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=28083, just started
+28083:C 25 Feb 2023 20:29:23.779 # Configuration loaded
+28083:M 25 Feb 2023 20:29:23.780 * monotonic clock: POSIX clock_gettime
+28083:M 25 Feb 2023 20:29:23.780 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+28083:M 25 Feb 2023 20:29:23.780 * Running mode=standalone, port=6379.
+28083:M 25 Feb 2023 20:29:23.780 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+28083:M 25 Feb 2023 20:29:23.780 # Server initialized
+28083:M 25 Feb 2023 20:29:23.780 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+28083:M 25 Feb 2023 20:29:23.781 * Loading RDB produced by version 7.0.4
+28083:M 25 Feb 2023 20:29:23.781 * RDB age 183707 seconds
+28083:M 25 Feb 2023 20:29:23.781 * RDB memory usage when created 0.89 Mb
+28083:M 25 Feb 2023 20:29:23.781 * Done loading RDB, keys loaded: 0, keys expired: 1.
+28083:M 25 Feb 2023 20:29:23.781 * DB loaded from disk: 0.000 seconds
+28083:M 25 Feb 2023 20:29:23.781 * Ready to accept connections
+31865:C 25 Feb 2023 20:41:37.136 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+31865:C 25 Feb 2023 20:41:37.136 # Redis version=7.0.4, bits=64, commit=00000000, modified=0, pid=31865, just started
+31865:C 25 Feb 2023 20:41:37.136 # Configuration loaded
+31865:M 25 Feb 2023 20:41:37.137 * monotonic clock: POSIX clock_gettime
+31865:M 25 Feb 2023 20:41:37.137 # Warning: Could not create server TCP listening socket ::1:6379: bind: Cannot assign requested address
+31865:M 25 Feb 2023 20:41:37.137 * Running mode=standalone, port=6379.
+31865:M 25 Feb 2023 20:41:37.137 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+31865:M 25 Feb 2023 20:41:37.137 # Server initialized
+31865:M 25 Feb 2023 20:41:37.137 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+31865:M 25 Feb 2023 20:41:37.137 * Loading RDB produced by version 7.0.4
+31865:M 25 Feb 2023 20:41:37.137 * RDB age 184441 seconds
+31865:M 25 Feb 2023 20:41:37.137 * RDB memory usage when created 0.89 Mb
+31865:M 25 Feb 2023 20:41:37.137 * Done loading RDB, keys loaded: 0, keys expired: 1.
+31865:M 25 Feb 2023 20:41:37.137 * DB loaded from disk: 0.000 seconds
+31865:M 25 Feb 2023 20:41:37.137 * Ready to accept connections
+31865:M 25 Feb 2023 21:41:38.064 * 1 changes in 3600 seconds. Saving...
+31865:M 25 Feb 2023 21:41:38.064 * Background saving started by pid 12332
+12332:C 25 Feb 2023 21:41:38.070 * DB saved on disk
+12332:C 25 Feb 2023 21:41:38.071 * Fork CoW for RDB: current 0 MB, peak 0 MB, average 0 MB
+31865:M 25 Feb 2023 21:41:38.165 * Background saving terminated with success
+31865:M 25 Feb 2023 21:41:38.265 * Replication backlog freed after 3600 seconds without connected replicas.

@@ -1,0 +1,333 @@
+[2023-02-23 15:31:59]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:30]--mysql:[user = root,pwd = root,database = JKYi-CloudDisk]
+[2023-02-23 15:32:39]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:30]--mysql:[user = root,pwd = root,database = JKYi-CloudDisk]
+[2023-02-23 15:33:11]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:30]--mysql:[user = root,pwd = root,database = JKYi-CloudDisk]
+[2023-02-23 15:33:51]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:30]--mysql:[user = root,pwd = root,database = JKYi-CloudDisk]
+[2023-02-23 15:47:24]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:360]--cmd = 
+[2023-02-23 15:47:24]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:385]--buf = {
+	"user": "xiaoyang",
+        "pwd":"ace8742e5a0669d3b88541f7471abf04"
+}
+[2023-02-23 15:47:24]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:166]--cJSON_GetObjectItem token err
+[2023-02-23 15:47:24]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:398]--user =xiaoyang,token = ,start = 0,count = 0
+[2023-02-23 15:48:02]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:360]--cmd = 
+[2023-02-23 15:48:02]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:385]--buf = {
+	"user": "xiaoyang",
+        "token":"ace8742e5a0669d3b88541f7471abf04"
+}
+[2023-02-23 15:48:02]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:174]--cJSON_GetObjectItem start err
+[2023-02-23 15:48:02]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:398]--user =xiaoyang,token = ace8742e5a0669d3b88541f7471abf04,start = 0,count = 0
+[2023-02-23 15:48:02]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:231]--(null) will be execute
+[2023-02-23 15:48:02]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:249]--mysql_num_rows err,err = 
+[2023-02-23 15:54:46]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:30]--mysql:[user = root,pwd = root,database = JKYi-CloudDisk]
+[2023-02-23 16:25:51]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:30]--mysql:[user = root,pwd = root,database = JKYi-CloudDisk]
+[2023-02-23 16:27:35]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:30]--mysql:[user = root,pwd = root,database = JKYi-CloudDisk]
+[2023-02-23 16:31:04]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:358]--queyr_string = 
+[2023-02-23 16:31:04]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:361]--cmd = 
+[2023-02-23 16:31:04]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:386]--buf = {
+	"user": "xiaoyang",
+        "token":"79de6bcd81d29ee1437dd6bee85c7182"
+}
+[2023-02-23 16:31:04]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:174]--cJSON_GetObjectItem start err
+[2023-02-23 16:31:04]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:399]--user =xiaoyang,token = 79de6bcd81d29ee1437dd6bee85c7182,start = 0,count = 0
+[2023-02-23 16:31:04]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:231]--(null) will be execute
+[2023-02-23 16:31:04]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:249]--mysql_num_rows err,err = 
+[2023-02-23 16:32:16]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:358]--queyr_string = cmd=count
+[2023-02-23 16:32:16]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:361]--cmd = count
+[2023-02-23 16:32:16]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:386]--buf = {
+	"user": "xiaoyang",
+        "token":"79de6bcd81d29ee1437dd6bee85c7182"
+}
+[2023-02-23 16:32:16]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:131]--line = 1
+[2023-02-23 16:38:10]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:358]--queyr_string = cmd=normal
+[2023-02-23 16:38:10]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:361]--cmd = normal
+[2023-02-23 16:38:10]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:386]--buf = {
+	"user": "xiaoyang",
+        "token":"79de6bcd81d29ee1437dd6bee85c7182",
+        "start":0,
+        "count":10
+}
+[2023-02-23 16:38:10]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:399]--user =xiaoyang,token = 79de6bcd81d29ee1437dd6bee85c7182,start = 0,count = 10
+[2023-02-23 16:38:10]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:231]--(null) will be execute
+[2023-02-23 16:38:10]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:313]--{
+	"files":	[{
+			"user":	"xiaoyang",
+			"md5":	"e2fc714c4727ee9395f324cd2e7f331f",
+			"create_time":	"2023-02-23 10:49:05",
+			"file_name":	"a.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://47.97.102.181:8000/group1/M00/00/00/L2FmtWP21CGAFeehAAAABlC7_tU434.txt",
+			"size":	4,
+			"type":	"txt"
+		}]
+}
+[2023-02-23 16:47:01]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:358]--queyr_string = cmd=count
+[2023-02-23 16:47:01]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:361]--cmd = count
+[2023-02-23 16:47:01]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:386]--buf = {
+    "user":"xiaoyang",
+    "token":"79de6bcd81d29ee1437dd6bee85c7182"
+}
+[2023-02-23 16:47:01]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:131]--line = 5
+[2023-02-23 16:47:40]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:358]--queyr_string = normal
+[2023-02-23 16:47:40]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:361]--cmd = count
+[2023-02-23 16:47:40]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:386]--buf = {
+    "user":"xiaoyang",
+    "token":"79de6bcd81d29ee1437dd6bee85c7182",
+    "start":0,
+    "count":10
+}
+[2023-02-23 16:47:40]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:131]--line = 5
+[2023-02-23 16:48:07]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:358]--queyr_string = normal
+[2023-02-23 16:48:07]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:361]--cmd = count
+[2023-02-23 16:48:07]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:386]--buf = {
+    "user":"xiaoyang",
+    "token":"79de6bcd81d29ee1437dd6bee85c7182",
+    "start":0,
+    "count":10
+}
+[2023-02-23 16:48:07]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:131]--line = 5
+[2023-02-23 16:48:24]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:358]--queyr_string = normal
+[2023-02-23 16:48:24]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:361]--cmd = count
+[2023-02-23 16:48:24]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:386]--buf = {
+    "user":"xiaoyang",
+    "token":"79de6bcd81d29ee1437dd6bee85c7182",
+    "start":0,
+    "count":10
+}
+[2023-02-23 16:48:24]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:131]--line = 5
+[2023-02-23 16:48:39]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:358]--queyr_string = cmd=normal
+[2023-02-23 16:48:39]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:361]--cmd = normal
+[2023-02-23 16:48:39]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:386]--buf = {
+    "user":"xiaoyang",
+    "token":"79de6bcd81d29ee1437dd6bee85c7182",
+    "start":0,
+    "count":10
+}
+[2023-02-23 16:48:39]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:399]--user =xiaoyang,token = 79de6bcd81d29ee1437dd6bee85c7182,start = 0,count = 10
+[2023-02-23 16:48:39]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:231]--(null) will be execute
+[2023-02-23 16:48:39]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:313]--{
+	"files":	[{
+			"user":	"xiaoyang",
+			"md5":	"e2fc714c4727ee9395f324cd2e7f331f",
+			"create_time":	"2023-02-23 10:49:05",
+			"file_name":	"a.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://47.97.102.181:8000/group1/M00/00/00/L2FmtWP21CGAFeehAAAABlC7_tU434.txt",
+			"size":	4,
+			"type":	"txt"
+		}, {
+			"user":	"xiaoyang",
+			"md5":	"b10e7723bb36049cb591945815a115e1",
+			"create_time":	"2023-02-23 16:43:05",
+			"file_name":	"b.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://47.97.102.181:8000/group1/M00/00/00/L2FmtWP3JxmAaZvrAAAAFAdyPrQ129.txt",
+			"size":	26,
+			"type":	"txt"
+		}, {
+			"user":	"xiaoyang",
+			"md5":	"b10e7723bb36049cb591945815a115e1",
+			"create_time":	"2023-02-23 16:43:16",
+			"file_name":	"b.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://47.97.102.181:8000/group1/M00/00/00/L2FmtWP3JxmAaZvrAAAAFAdyPrQ129.txt",
+			"size":	26,
+			"type":	"txt"
+		}, {
+			"user":	"xiaoyang",
+			"md5":	"b10e7723bb36049cb591945815a115e1",
+			"create_time":	"2023-02-23 16:43:29",
+			"file_name":	"b.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://47.97.102.181:8000/group1/M00/00/00/L2FmtWP3JxmAaZvrAAAAFAdyPrQ129.txt",
+			"size":	26,
+			"type":	"txt"
+		}, {
+			"user":	"xiaoyang",
+			"md5":	"b10e7723bb36049cb591945815a115e1",
+			"create_time":	"2023-02-23 16:43:05",
+			"file_name":	"b.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://47.97.102.181:8000/group1/M00/00/00/L2FmtWP3JySAagnGAAAAFAdyPrQ082.txt",
+			"size":	26,
+			"type":	"txt"
+		}, {
+			"user":	"xiaoyang",
+			"md5":	"b10e7723bb36049cb591945815a115e1",
+			"create_time":	"2023-02-23 16:43:16",
+			"file_name":	"b.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://47.97.102.181:8000/group1/M00/00/00/L2FmtWP3JySAagnGAAAAFAdyPrQ082.txt",
+			"size":	26,
+			"type":	"txt"
+		}, {
+			"user":	"xiaoyang",
+			"md5":	"b10e7723bb36049cb591945815a115e1",
+			"create_time":	"2023-02-23 16:43:29",
+			"file_name":	"b.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://47.97.102.181:8000/group1/M00/00/00/L2FmtWP3JySAagnGAAAAFAdyPrQ082.txt",
+			"size":	26,
+			"type":	"txt"
+		}, {
+			"user":	"xiaoyang",
+			"md5":	"b10e7723bb36049cb591945815a115e1",
+			"create_time":	"2023-02-23 16:43:05",
+			"file_name":	"b.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://47.97.102.181:8000/group1/M00/00/00/L2FmtWP3JzGAR9YzAAAAFo4jqWs704.txt",
+			"size":	26,
+			"type":	"txt"
+		}, {
+			"user":	"xiaoyang",
+			"md5":	"b10e7723bb36049cb591945815a115e1",
+			"create_time":	"2023-02-23 16:43:16",
+			"file_name":	"b.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://47.97.102.181:8000/group1/M00/00/00/L2FmtWP3JzGAR9YzAAAAFo4jqWs704.txt",
+			"size":	26,
+			"type":	"txt"
+		}, {
+			"user":	"xiaoyang",
+			"md5":	"b10e7723bb36049cb591945815a115e1",
+			"create_time":	"2023-02-23 16:43:29",
+			"file_name":	"b.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://47.97.102.181:8000/group1/M00/00/00/L2FmtWP3JzGAR9YzAAAAFo4jqWs704.txt",
+			"size":	26,
+			"type":	"txt"
+		}]
+}
+[2023-02-23 16:50:23]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:358]--queyr_string = cmd=normal
+[2023-02-23 16:50:23]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:361]--cmd = normal
+[2023-02-23 16:50:23]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:386]--buf = {
+    "user":"xiaoyang",
+    "token":"79de6bcd81d29ee1437dd6bee85c7182",
+    "start":0,
+    "count":20
+}
+[2023-02-23 16:50:23]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:399]--user =xiaoyang,token = 79de6bcd81d29ee1437dd6bee85c7182,start = 0,count = 20
+[2023-02-23 16:50:23]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:231]--(null) will be execute
+[2023-02-23 16:50:23]--[/home/admin/JKYi-CloudDisk/src_cgi/myfiles_cgi.c:313]--{
+	"files":	[{
+			"user":	"xiaoyang",
+			"md5":	"e2fc714c4727ee9395f324cd2e7f331f",
+			"create_time":	"2023-02-23 10:49:05",
+			"file_name":	"a.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://47.97.102.181:8000/group1/M00/00/00/L2FmtWP21CGAFeehAAAABlC7_tU434.txt",
+			"size":	4,
+			"type":	"txt"
+		}, {
+			"user":	"xiaoyang",
+			"md5":	"b10e7723bb36049cb591945815a115e1",
+			"create_time":	"2023-02-23 16:43:05",
+			"file_name":	"b.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://47.97.102.181:8000/group1/M00/00/00/L2FmtWP3JxmAaZvrAAAAFAdyPrQ129.txt",
+			"size":	26,
+			"type":	"txt"
+		}, {
+			"user":	"xiaoyang",
+			"md5":	"b10e7723bb36049cb591945815a115e1",
+			"create_time":	"2023-02-23 16:43:16",
+			"file_name":	"b.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://47.97.102.181:8000/group1/M00/00/00/L2FmtWP3JxmAaZvrAAAAFAdyPrQ129.txt",
+			"size":	26,
+			"type":	"txt"
+		}, {
+			"user":	"xiaoyang",
+			"md5":	"b10e7723bb36049cb591945815a115e1",
+			"create_time":	"2023-02-23 16:43:29",
+			"file_name":	"b.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://47.97.102.181:8000/group1/M00/00/00/L2FmtWP3JxmAaZvrAAAAFAdyPrQ129.txt",
+			"size":	26,
+			"type":	"txt"
+		}, {
+			"user":	"xiaoyang",
+			"md5":	"b10e7723bb36049cb591945815a115e1",
+			"create_time":	"2023-02-23 16:43:05",
+			"file_name":	"b.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://47.97.102.181:8000/group1/M00/00/00/L2FmtWP3JySAagnGAAAAFAdyPrQ082.txt",
+			"size":	26,
+			"type":	"txt"
+		}, {
+			"user":	"xiaoyang",
+			"md5":	"b10e7723bb36049cb591945815a115e1",
+			"create_time":	"2023-02-23 16:43:16",
+			"file_name":	"b.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://47.97.102.181:8000/group1/M00/00/00/L2FmtWP3JySAagnGAAAAFAdyPrQ082.txt",
+			"size":	26,
+			"type":	"txt"
+		}, {
+			"user":	"xiaoyang",
+			"md5":	"b10e7723bb36049cb591945815a115e1",
+			"create_time":	"2023-02-23 16:43:29",
+			"file_name":	"b.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://47.97.102.181:8000/group1/M00/00/00/L2FmtWP3JySAagnGAAAAFAdyPrQ082.txt",
+			"size":	26,
+			"type":	"txt"
+		}, {
+			"user":	"xiaoyang",
+			"md5":	"b10e7723bb36049cb591945815a115e1",
+			"create_time":	"2023-02-23 16:43:05",
+			"file_name":	"b.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://47.97.102.181:8000/group1/M00/00/00/L2FmtWP3JzGAR9YzAAAAFo4jqWs704.txt",
+			"size":	26,
+			"type":	"txt"
+		}, {
+			"user":	"xiaoyang",
+			"md5":	"b10e7723bb36049cb591945815a115e1",
+			"create_time":	"2023-02-23 16:43:16",
+			"file_name":	"b.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://47.97.102.181:8000/group1/M00/00/00/L2FmtWP3JzGAR9YzAAAAFo4jqWs704.txt",
+			"size":	26,
+			"type":	"txt"
+		}, {
+			"user":	"xiaoyang",
+			"md5":	"b10e7723bb36049cb591945815a115e1",
+			"create_time":	"2023-02-23 16:43:29",
+			"file_name":	"b.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://47.97.102.181:8000/group1/M00/00/00/L2FmtWP3JzGAR9YzAAAAFo4jqWs704.txt",
+			"size":	26,
+			"type":	"txt"
+		}, {
+			"user":	"xiaoyang",
+			"md5":	"df483402b9bfeb234717a32c6e86280e",
+			"create_time":	"2023-02-23 16:45:30",
+			"file_name":	"c.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://47.97.102.181:8000/group1/M00/00/00/L2FmtWP3J6qAD-2GAAAABlWO1Xk724.txt",
+			"size":	5,
+			"type":	"txt"
+		}]
+}
